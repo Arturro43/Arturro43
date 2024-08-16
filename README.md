@@ -18,7 +18,7 @@ And my [blog](https://arturro43.github.io/blog/) which is kinda... dead...
 ## Contact me
 
 Please contact me using:
-[SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FUZ_l6si8RYNb_3qPzet_m5_fTByHu17p%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAwkz5frfdrro-uUA6aPqevCsqe_PEUNRt_4dQfos7ulc%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion  
+[SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - [https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FUZ_l6si8RYNb_3qPzet_m5_fTByHu17p%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAwkz5frfdrro-uUA6aPqevCsqe_PEUNRt_4dQfos7ulc%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion](https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FUZ_l6si8RYNb_3qPzet_m5_fTByHu17p%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAwkz5frfdrro-uUA6aPqevCsqe_PEUNRt_4dQfos7ulc%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion) 
 
 Matrix - https://matrix.to/#/@sdrbun:hackliberty.org  
 
